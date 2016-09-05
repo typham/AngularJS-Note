@@ -16,7 +16,7 @@ function BrowseServer(startupPath, functionData) {
             finder.selectActionData = functionData;
 
             // Name of a function which is called when a thumbnail is selected in CKFinder.
-            //finder.selectThumbnailActionFunction = ShowThumbnails;
+            //finder.selectThumbnailActionFunction = ShowThumbnails;test sync
 
             // Launch CKFinder
             finder.popup();
